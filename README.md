@@ -29,6 +29,7 @@ Network Engineer based in Vietnam, building tools that make network operations s
 - Background: network design, network security, Linux services
 - Focus: network automation, observability, open-source tooling
 
-### GitHub Stats
+### Contact
 
-![9ping's GitHub stats](https://github-readme-stats.vercel.app/api?username=thangphan205&show_icons=true&theme=default&hide_border=true)
+- 📧 [thang@9ping.cloud](mailto:thang@9ping.cloud)
+
